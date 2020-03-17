@@ -1,3 +1,4 @@
+# Helper class for loading and storing preferences
 import os
 import sys
 import json
